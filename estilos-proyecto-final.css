@@ -1,0 +1,45 @@
+
+:root {
+    background-color:antiquewhite;
+    font-family: 'Shantell Sans', cursive;
+}
+
+/* {outline:  1px solid olive;}
+*/
+body{
+    font-family: 'Shantell Sans', cursive;
+    color: black;
+}
+
+header, section {
+    width: 960px;
+    margin: 0 auto;
+}
+
+header {
+    display: flex;
+}
+section {
+    display: flex;
+}
+
+article {
+    width: 50%;
+}
+
+aside {
+    width: 50%;
+}
+
+ul {
+    list-style-type:decimal;
+}
+a,a: link, a:visited {
+    text-decoration: none;
+    color: red;
+}
+img {
+    width: 200px;
+    height: 200px;
+    margin-right: 16px;
+}
